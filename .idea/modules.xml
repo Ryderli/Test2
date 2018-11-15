@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tbdemo/Tbdemo.iml" filepath="$PROJECT_DIR$/Tbdemo/Tbdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat.iml" filepath="$PROJECT_DIR$/chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianying/dianying.iml" filepath="$PROJECT_DIR$/dianying/dianying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donghua/donghua.iml" filepath="$PROJECT_DIR$/donghua/donghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menusdemo/menusdemo.iml" filepath="$PROJECT_DIR$/menusdemo/menusdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newMenus/newMenus.iml" filepath="$PROJECT_DIR$/newMenus/newMenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/save-test/save-test.iml" filepath="$PROJECT_DIR$/save-test/save-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-weather/test-weather.iml" filepath="$PROJECT_DIR$/test-weather/test-weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbar_demo/toolbar_demo.iml" filepath="$PROJECT_DIR$/toolbar_demo/toolbar_demo.iml" />
+    </modules>
+  </component>
+</project>

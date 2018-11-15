@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.myapplication.MainActivity">
+
+    <LinearLayout
+        android:background="#ff6633"
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:hint="请输入你要找的菜式"
+            android:layout_marginLeft="10dp"
+            android:background="#FFFFFF"
+            android:layout_width="282dp"
+            android:layout_height="35dp"
+            android:id="@+id/edtext"/>
+        <Button
+            android:background="#ff6633"
+            android:id="@+id/ebtn"
+            android:text="搜索"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/lv"
+            android:onClick="showClick"/>
+    </LinearLayout>
+
+
+    <ListView
+        android:layout_below="@id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv"></ListView>
+
+</RelativeLayout>

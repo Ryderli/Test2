@@ -1,0 +1,1 @@
+include ':app', ':myapplication2', ':menusdemo', ':chat', ':donghua', ':Tbdemo', ':toolbar_demo', ':save-test', ':test-weather', ':newMenus', ':dianying'
